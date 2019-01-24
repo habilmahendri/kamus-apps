@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">KamusProject</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_first_run">First Run!</string>
+    <string name="indonesia_english">Indonesia-English</string>
+    <string name="english_indonesia">English-indonesia</string>
+    <string name="cari_arti">cari arti</string>
+    <string name="search">search</string>
+    <string name="dicoding">Dicoding</string>
+    <string name="find">find</string>
+
+</resources>
